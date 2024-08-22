@@ -2,7 +2,7 @@
 
 ## Description
  Fast Blog makes reading and writing articles swift and hassle free.
- This blog was created as an end of semester project required by Altschool.
+
  
  
 ## Built With
@@ -68,12 +68,3 @@ Emmanuel Albert - [@alnuelCode_X](https://twitter.com/alnuelCode_X) - salberthp8
 Project Link: [FAST-blog](https://github.com/AlxeverCodeX/FAST-blog)
 
 
-## Acknowledgements
-
-This project was made possible by:
-
-* [AltSchool Africa School of Engineering](https://altschoolafrica.com/schools/engineering)
-* [Caleb Emelike's Flask Lessons](https://github.com/CalebEmelike)
-* [Austin's Python Repo For AltSchool Live Classes](https://github.com/Ze-Austin/altschool-python)
-* [AltSchool Recorded Live Classes](https://www.youtube.com/playlist?list=PLTTmsZetDiwy6U7BZsTi17HkFFApgr9iZ)
-* [Stack Overflow](https://stackoverflow.com/)
